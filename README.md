@@ -3,7 +3,7 @@
 > <br>Welcome to my GitHub! 🕵️‍♂️
 <br>
 
-> → :sunglasses: You can call me **Alex** or **Magno** 🌟<br>
+> → :sunglasses: You can call me **Alexandre**, **Alê**, **Alex** or **Magno** 🌟<br>
 > → 👨‍💻 I'm a *`technologist`* <br>
 > → 🧑‍🎓 Graduated in *`Analysis and Systems Development`* <br>
 > → 🧙‍♂️ I love to learn both front and back end techonologies <br>
