@@ -4,8 +4,8 @@
 <br>
 
 > → :sunglasses: You can call me **Alexandre**, **Alê**, **Alex** or **Magno** 🌟<br>
-> → 👨‍💻 I'm a *`technologist`* <br>
-> → 🧑‍🎓 Graduated in *`Analysis and Systems Development`* <br>
+> → 👨‍💻 I'm a *technologist* <br>
+> → 🧑‍🎓 Graduated in *Analysis and Systems Development* <br>
 > → 🧙‍♂️ I love to learn both front and back end techonologies <br>
 > → 🎶 **Hobbies**: music production and video-games! 👾<br>
 > → 📖 **Learning**: Next.js, GraphQL and TDD 🎉
