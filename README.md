@@ -6,9 +6,9 @@
 > → :sunglasses: You can call me **Alexandre**, **Alê**, **Alex** or **Magno** 🌟<br>
 > → 👨‍💻 I'm a *technologist* <br>
 > → 🧑‍🎓 Graduated in *Analysis and Systems Development* <br>
-> → 🧙‍♂️ I love to learn both front and back end techonologies <br>
+> → 🧙‍♂️ I love to learn both front and back end technologies <br>
 > → 🎶 **Hobbies**: music production and video-games! 👾<br>
-> → 📖 **Learning**: Next.js, GraphQL and TDD 🎉
+> → 📖 **Learning**: Vue.js, GraphQL and TDD 🎉
 
 ## » 💪 My skills
 <p align="center">
