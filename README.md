@@ -8,7 +8,7 @@
 > → 🧑‍🎓 Graduated in *Analysis and Systems Development* <br>
 > → 🧙‍♂️ I love to learn both front and back end technologies <br>
 > → 🎶 **Hobbies**: music production and video-games! 👾<br>
-> → 📖 **Learning**: Vue.js, GraphQL and TDD 🎉
+> → 🏡💻 **Working on**: Vue3, Nuxt, Node.JS and Neo4J 🎉
 
 ## » 💪 My skills (will update soon)
 <p align="center">
