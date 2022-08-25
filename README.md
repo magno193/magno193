@@ -3,8 +3,8 @@
 > <br>Welcome to my GitHub! 🕵️‍♂️
 <br>
 
-> → :sunglasses: You can call me **Alexandre**, **Alê**, **Alex** or **Magno** 🌟<br>
-> → 👨‍💻 I'm a *technologist* <br>
+> → You can call me **Alexandre**, **Alê**, **Alex** or **Magno** 🌟<br>
+> → 👨‍💻 I'm a *web developer* <br>
 > → 🧑‍🎓 Graduated in *Analysis and Systems Development* <br>
 > → 🧙‍♂️ I love to learn both front and back end technologies <br>
 > → 🎶 **Hobbies**: music production and video-games! 👾<br>
@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="" style="vertical-align:top; margin:4px">
+  <img src="https://br.vuejs.org/images/logo.svg" alt="" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="" style="vertical-align:top; margin:4px">
 </p>
